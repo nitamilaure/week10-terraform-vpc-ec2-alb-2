@@ -7,3 +7,4 @@ variable "REGION" {
 variable "INSTANCE_TYPE" {
   default = "t2.large"
 }
+#test
